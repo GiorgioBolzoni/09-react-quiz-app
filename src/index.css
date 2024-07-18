@@ -105,6 +105,7 @@ header h1 {
   margin: 0;
 }
 
+
 #question progress::-webkit-progress-bar {
   background: #6a558a;
   border-radius: 24px;
